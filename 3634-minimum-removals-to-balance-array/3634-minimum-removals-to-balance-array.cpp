@@ -9,8 +9,8 @@ public:
         int newl = INT_MIN;
 
         while (i < n && j < n) {
-            int maxi = nums[j];
-            int mini = nums[i];
+            long long maxi = nums[j];
+            long long mini = nums[i];
             if (maxi <= mini * k) {
                 newl = max(newl, j - i + 1);
                 j++;
