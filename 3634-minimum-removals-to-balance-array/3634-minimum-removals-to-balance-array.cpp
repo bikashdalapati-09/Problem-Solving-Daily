@@ -11,7 +11,7 @@ public:
         while (i < n && j < n) {
             long long maxi = nums[j];
             long long mini = nums[i];
-            if (maxi <= mini * k) {
+            if (maxi/k <= mini) {
                 newl = max(newl, j - i + 1);
                 j++;
             } else {
