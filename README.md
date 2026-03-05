@@ -17,4 +17,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 <!---LeetCode Topics End-->
