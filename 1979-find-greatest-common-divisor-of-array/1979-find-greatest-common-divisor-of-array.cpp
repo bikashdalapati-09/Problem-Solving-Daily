@@ -4,7 +4,7 @@ public:
         int mini = *min_element(nums.begin(), nums.end());
         int maxi = *max_element(nums.begin(), nums.end());
         
-        for(int i = mini;i <= maxi;i++){
+        for(int i = mini;i > 0;i--){
             if((mini % i == 0) && (maxi % i == 0)){
                 return i;
             }
