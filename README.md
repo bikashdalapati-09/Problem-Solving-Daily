@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0031-next-permutation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0031-next-permutation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0001-two-sum/) | Easy |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Union-Find
@@ -127,5 +130,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0031-next-permutation/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
