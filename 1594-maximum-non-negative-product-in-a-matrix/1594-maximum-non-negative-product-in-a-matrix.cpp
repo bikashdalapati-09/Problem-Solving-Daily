@@ -3,7 +3,7 @@ public:
     int maxProductPath(vector<vector<int>>& grid) {
         int m = grid.size();
         int n = grid[0].size();
-        long long mod = 1000000007;
+        long long mod = 1e9 + 7;
 
         vector<vector<long long>> min_dp(m,vector<long long>(n));
         vector<vector<long long>> max_dp(m,vector<long long>(n));
