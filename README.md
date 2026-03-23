@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
