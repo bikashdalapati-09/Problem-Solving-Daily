@@ -170,4 +170,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 <!---LeetCode Topics End-->
