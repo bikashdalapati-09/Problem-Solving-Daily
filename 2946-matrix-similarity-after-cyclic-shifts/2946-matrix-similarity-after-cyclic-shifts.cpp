@@ -12,12 +12,7 @@ public:
         m = mat.size();
         n = mat[0].size();
 
-        vector<vector<int>> dummy(m, vector<int>(n));
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                dummy[i][j] = mat[i][j];
-            }
-        }
+        vector<vector<int>> dummy(mat.begin(), mat.end());
 
         while (k--) {
             for (int i = 0; i < m; i++) {
