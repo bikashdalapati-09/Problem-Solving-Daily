@@ -12,7 +12,7 @@ public:
         while (left <= right) {
             int mid = left + (right - left) / 2;
 
-            int row = mid / m;
+            int row = mid / n;
             int col = mid % n;
 
             int curr = matrix[row][col];
