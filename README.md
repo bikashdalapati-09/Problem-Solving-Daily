@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3474-lexicographically-smallest-generated-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,4 +227,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0062-unique-paths/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 <!---LeetCode Topics End-->
