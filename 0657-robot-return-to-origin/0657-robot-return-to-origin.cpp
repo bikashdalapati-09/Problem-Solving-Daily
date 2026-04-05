@@ -1,19 +1,20 @@
 class Solution {
 public:
     bool judgeCircle(string moves) {
-        vector<int> arr(2, 0);
+        int x = 0;
+        int y = 0;
 
         for (auto i : moves) {
             if (i == 'L') {
-                arr[1]++;
+                x++;
             } else if (i == 'R') {
-                arr[1]--;
+                x--;
             } else if (i == 'U') {
-                arr[0]++;
+                y++;
             } else {
-                arr[0]--;
+                y--;
             }
         }
-        return arr[0] == 0 && arr[1] == 0;
+        return x == 0 && y == 0;
     }
 };
