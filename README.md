@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0242-valid-anagram/) | Easy |
+| [0398-random-pick-index](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0398-random-pick-index/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -193,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0062-unique-paths/) | Medium |
+| [0398-random-pick-index](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0398-random-pick-index/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -272,4 +274,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+## Reservoir Sampling
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0398-random-pick-index](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0398-random-pick-index/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0398-random-pick-index](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0398-random-pick-index/) | Medium |
 <!---LeetCode Topics End-->
