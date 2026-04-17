@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0322-coin-change/) | Medium |
+| [0494-target-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0518-coin-change-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0874-walking-robot-simulation/) | Medium |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0322-coin-change/) | Medium |
+| [0494-target-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0518-coin-change-ii/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0494-target-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0494-target-sum/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
