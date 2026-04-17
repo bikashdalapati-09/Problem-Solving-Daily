@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0279-perfect-squares](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0518-coin-change-ii/) | Medium |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0062-unique-paths/) | Medium |
+| [0279-perfect-squares](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0279-perfect-squares/) | Medium |
 | [0398-random-pick-index](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0398-random-pick-index/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
@@ -297,5 +299,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
