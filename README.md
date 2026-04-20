@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0072-edit-distance](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0072-edit-distance/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0139-word-break/) | Medium |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0062-unique-paths](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0072-edit-distance/) | Medium |
@@ -250,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0031-next-permutation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0088-merge-sorted-array/) | Easy |
