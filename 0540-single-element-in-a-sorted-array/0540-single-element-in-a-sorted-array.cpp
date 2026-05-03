@@ -8,6 +8,6 @@ public:
                 return nums[i];
             }
         }
-        return 0;
+        return nums[nums.size()-1];
     }
 };
