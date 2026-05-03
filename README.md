@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2751-robot-collisions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2751-robot-collisions/) | Hard |
 | [2906-construct-product-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2615-sum-of-distances](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0229-majority-element-ii/) | Medium |
+| [3184-count-pairs-that-form-a-complete-day-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
