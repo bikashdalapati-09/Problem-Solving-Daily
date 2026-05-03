@@ -1,12 +1,12 @@
 class Solution {
 public:
     int mySqrt(int n) {
-        int start = 0;
-        int end = n;
+        long long start = 0;
+        long long end = n;
         int ans = 0;
         while (start <= end) {
-            int mid = start + (end - start) / 2;
-            long long square = static_cast<long long>(mid) * mid;
+            long long mid = start + (end - start) / 2;
+            long long square = mid * mid;
 
             if (square == n) {
                 return mid;
