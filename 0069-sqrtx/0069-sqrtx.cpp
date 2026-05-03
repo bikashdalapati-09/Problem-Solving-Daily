@@ -6,6 +6,7 @@ public:
         int ans = 0;
         while (start <= end) {
             int mid = start + (end - start) / 2;
+            long long square = static_cast<long long>(mid) * mid;
 
             if (square == n) {
                 return mid;
