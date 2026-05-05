@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0061-rotate-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0031-next-permutation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0031-next-permutation/) | Medium |
+| [0061-rotate-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0151-reverse-words-in-a-string/) | Medium |
