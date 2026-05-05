@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0061-rotate-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0725-split-linked-list-in-parts](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0725-split-linked-list-in-parts/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
