@@ -12,7 +12,7 @@ public:
                 r = mid;
             }
         }
-        return r;
+        return l;
     }
     int binarySearch(vector<int>& nums, int l, int r, int target) {
         while (l <= r) {
