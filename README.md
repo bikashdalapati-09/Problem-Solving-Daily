@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0002-add-two-numbers/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0061-rotate-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0075-sort-colors/) | Medium |
