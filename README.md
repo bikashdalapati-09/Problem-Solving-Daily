@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -223,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2615-sum-of-distances](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2906-construct-product-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0069-sqrtx/) | Easy |
 | [0279-perfect-squares](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0279-perfect-squares/) | Medium |
 | [0398-random-pick-index](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0398-random-pick-index/) | Medium |
+| [1588-sum-of-all-odd-length-subarrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2544-alternating-digit-sum/) | Easy |
