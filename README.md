@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -322,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1861-rotating-the-box/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
