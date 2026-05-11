@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1861-rotating-the-box/) | Medium |
