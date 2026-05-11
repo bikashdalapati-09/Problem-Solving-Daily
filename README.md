@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0242-valid-anagram/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2751-robot-collisions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2751-robot-collisions/) | Hard |
