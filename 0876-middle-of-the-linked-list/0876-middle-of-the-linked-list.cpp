@@ -18,10 +18,10 @@ public:
             dummy = dummy->next;
         }
         len = len / 2;
-        dummy = head;
+
         while (len--) {
-            dummy = dummy->next;
+            head = head->next;
         }
-        return dummy;
+        return head;
     }
 };
