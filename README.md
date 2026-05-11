@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0229-majority-element-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0303-range-sum-query-immutable](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0518-coin-change-ii/) | Medium |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [2615-sum-of-distances](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2906-construct-product-matrix/) | Medium |
@@ -414,4 +416,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0139-word-break/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
