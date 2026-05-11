@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1603-design-parking-system](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1603-design-parking-system/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -382,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0169-majority-element](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0229-majority-element-ii/) | Medium |
+| [1603-design-parking-system](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1603-design-parking-system/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -420,4 +422,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1603-design-parking-system](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
