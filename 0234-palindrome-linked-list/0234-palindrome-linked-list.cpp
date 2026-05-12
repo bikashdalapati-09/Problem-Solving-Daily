@@ -11,14 +11,20 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        string s = "";
-        while(head){
-            s += (head -> val + '0');
-            head = head -> next;
+        stack<int> st;
+        ListNode* dummy = head;
+        while (dummy) {
+            st.push(dummy->val);
+            dummy = dummy->next;
         }
-        string rev = s;
-        reverse(rev.begin(), rev.end());
 
-        return s == rev;
+        while (head) {
+            if (st.top() != head->val) {
+                return false;
+            }
+            st.pop();
+            head = head->next;
+        }
+        return true;
     }
 };
