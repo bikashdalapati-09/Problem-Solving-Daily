@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0206-reverse-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0725-split-linked-list-in-parts](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0725-split-linked-list-in-parts/) | Medium |
@@ -393,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
