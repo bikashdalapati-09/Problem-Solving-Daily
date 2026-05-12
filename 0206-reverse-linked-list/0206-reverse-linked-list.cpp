@@ -10,22 +10,19 @@
  */
 class Solution {
 public:
+    ListNode* usingRecursion(ListNode*prev,ListNode* curr){
+        if(curr == NULL) return prev;
+        ListNode* nextNode = curr -> next;
+            curr -> next = prev;
+            prev = curr;
+            curr = nextNode;
+        return usingRecursion(prev,curr);
+
+    }
     ListNode* reverseList(ListNode* head) {
-        stack<int> st;
+        ListNode* prev = NULL;
+        ListNode* curr = head;
 
-        while (head) {
-            st.push(head->val);
-            head = head->next;
-        }
-        ListNode* dummy = new ListNode(0);
-        head = dummy;
-
-        while (!st.empty()) {
-            int val = st.top();
-            dummy->next = new ListNode(val);
-            st.pop();
-            dummy = dummy->next;
-        }
-        return head->next;
+        return usingRecursion(prev,curr);
     }
 };
