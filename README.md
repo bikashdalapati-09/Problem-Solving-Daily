@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1672-richest-customer-wealth](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0398-random-pick-index](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0398-random-pick-index/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2615-sum-of-distances](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2615-sum-of-distances/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -246,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [2615-sum-of-distances](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2906-construct-product-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
