@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0169-majority-element/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0229-majority-element-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
@@ -277,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0069-sqrtx](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
