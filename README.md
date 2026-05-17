@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1306-jump-game-iii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [1306-jump-game-iii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Binary Tree
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0279-perfect-squares](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0322-coin-change/) | Medium |
+| [1306-jump-game-iii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 ## Trie
