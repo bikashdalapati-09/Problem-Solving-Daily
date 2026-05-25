@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1871-jump-game-vii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1871-jump-game-vii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [1871-jump-game-vii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -318,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1871-jump-game-vii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1871-jump-game-vii/) | Medium |
 | [2615-sum-of-distances](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2906-construct-product-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
