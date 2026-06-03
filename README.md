@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1871-jump-game-vii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
