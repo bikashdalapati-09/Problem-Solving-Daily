@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2196-create-binary-tree-from-descriptions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -317,6 +320,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-jump-game-iv](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1345-jump-game-iv/) | Hard |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2540-minimum-common-value](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2540-minimum-common-value/) | Easy |
 | [2615-sum-of-distances](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2615-sum-of-distances/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
