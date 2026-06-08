@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3131-find-the-integer-added-to-array-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
 | [3161-block-placement-queries](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3161-block-placement-queries/) | Hard |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
