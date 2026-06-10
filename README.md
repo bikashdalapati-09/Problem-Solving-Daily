@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3660-jump-game-ix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -440,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3691-maximum-total-subarray-value-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -608,4 +611,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3161-block-placement-queries/) | Hard |
+| [3691-maximum-total-subarray-value-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 <!---LeetCode Topics End-->
