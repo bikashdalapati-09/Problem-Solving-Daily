@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -537,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Database
 | Problem Name | Difficulty |
