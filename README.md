@@ -308,6 +308,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Binary Tree
@@ -429,12 +430,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3620-network-recovery-pathways/) | Hard |
@@ -620,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1306-jump-game-iii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
