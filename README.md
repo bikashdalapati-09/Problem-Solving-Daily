@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3701-compute-alternating-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
@@ -571,6 +572,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3612-process-string-with-special-operations-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
+| [3701-compute-alternating-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3701-compute-alternating-sum/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
