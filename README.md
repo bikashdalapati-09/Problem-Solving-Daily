@@ -205,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3582-generate-tag-for-video-caption](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3582-generate-tag-for-video-caption/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3894-traffic-signal-color](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3894-traffic-signal-color/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -485,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3894-traffic-signal-color](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3894-traffic-signal-color/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -582,6 +584,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3614-process-string-with-special-operations-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3894-traffic-signal-color](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3894-traffic-signal-color/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
