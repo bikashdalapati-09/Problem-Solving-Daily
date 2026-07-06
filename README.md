@@ -481,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2180-count-integers-with-even-digit-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2544-alternating-digit-sum/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
+| [2739-total-distance-traveled](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2739-total-distance-traveled/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -584,6 +585,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2739-total-distance-traveled](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2739-total-distance-traveled/) | Easy |
 | [2751-robot-collisions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
