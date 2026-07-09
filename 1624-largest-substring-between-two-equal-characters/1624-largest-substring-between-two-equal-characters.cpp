@@ -9,10 +9,8 @@ public:
         }
 
         for(auto [ch, arr] : mp){
-            sort(arr.begin(), arr.end());
             int diff = abs(arr[0] - arr[arr.size() - 1]);
             maxi = max(maxi, diff);
-
         }
         return maxi - 1;
     }
