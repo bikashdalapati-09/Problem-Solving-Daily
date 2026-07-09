@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1436-destination-city](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1436-destination-city/) | Easy |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -367,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1345-jump-game-iv](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1436-destination-city](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1436-destination-city/) | Easy |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
