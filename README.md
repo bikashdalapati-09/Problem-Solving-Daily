@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1306-jump-game-iii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1306-jump-game-iii/) | Medium |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0566-reshape-the-matrix/) | Easy |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -366,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0874-walking-robot-simulation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1345-jump-game-iv](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1436-destination-city](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1436-destination-city/) | Easy |
@@ -593,6 +596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1603-design-parking-system](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1603-design-parking-system/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
