@@ -221,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3614-process-string-with-special-operations-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+| [3856-trim-trailing-vowels](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3856-trim-trailing-vowels/) | Easy |
 | [3894-traffic-signal-color](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3894-traffic-signal-color/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
