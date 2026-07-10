@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2600-k-items-with-the-maximum-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -504,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2544-alternating-digit-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2544-alternating-digit-sum/) | Easy |
+| [2600-k-items-with-the-maximum-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2651-calculate-delayed-arrival-time](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2651-calculate-delayed-arrival-time/) | Easy |
 | [2739-total-distance-traveled](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2739-total-distance-traveled/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
