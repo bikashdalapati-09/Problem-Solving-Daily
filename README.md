@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0566-reshape-the-matrix/) | Easy |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
