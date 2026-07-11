@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2960-count-tested-devices-after-test-operations](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3131-find-the-integer-added-to-array-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3131-find-the-integer-added-to-array-i/) | Easy |
@@ -625,6 +626,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2739-total-distance-traveled](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2739-total-distance-traveled/) | Easy |
 | [2751-robot-collisions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2751-robot-collisions/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2960-count-tested-devices-after-test-operations](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3582-generate-tag-for-video-caption](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3582-generate-tag-for-video-caption/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3612-process-string-with-special-operations-i/) | Medium |
@@ -654,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0229-majority-element-ii/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1603-design-parking-system](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1603-design-parking-system/) | Easy |
+| [2960-count-tested-devices-after-test-operations](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
