@@ -611,6 +611,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1291-sequential-digits/) | Medium |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
