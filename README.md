@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0796-rotate-string/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2751-robot-collisions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2751-robot-collisions/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -732,6 +735,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0042-trapping-rain-water/) | Hard |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
