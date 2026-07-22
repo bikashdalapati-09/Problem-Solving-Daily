@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -226,6 +227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3582-generate-tag-for-video-caption](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3582-generate-tag-for-video-caption/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -471,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3161-block-placement-queries](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3488-closest-equal-element-queries/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -748,6 +751,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3161-block-placement-queries/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Shortest Path
 | Problem Name | Difficulty |
