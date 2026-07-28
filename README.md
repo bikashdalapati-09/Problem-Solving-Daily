@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3582-generate-tag-for-video-caption](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3582-generate-tag-for-video-caption/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
@@ -628,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2751-robot-collisions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2751-robot-collisions/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -771,4 +773,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3620-network-recovery-pathways](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3620-network-recovery-pathways/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
