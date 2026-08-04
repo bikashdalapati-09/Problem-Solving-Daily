@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3691-maximum-total-subarray-value-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3701-compute-alternating-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3731-find-missing-elements](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3731-find-missing-elements/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3833-count-dominant-indices](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3833-count-dominant-indices/) | Easy |
@@ -420,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3548-equal-sum-grid-partition-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3731-find-missing-elements](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3731-find-missing-elements/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -634,6 +636,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3731-find-missing-elements](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
