@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0674-longest-continuous-increasing-subsequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0877-stone-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0877-stone-game/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0518-coin-change-ii/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0583-delete-operation-for-two-strings/) | Medium |
+| [0877-stone-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -531,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0279-perfect-squares/) | Medium |
 | [0398-random-pick-index](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0398-random-pick-index/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0877-stone-game/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1185-day-of-the-week](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1185-day-of-the-week/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -799,4 +802,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0877-stone-game/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0877-stone-game/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
