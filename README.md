@@ -549,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3270-find-the-key-of-the-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3270-find-the-key-of-the-numbers/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
@@ -654,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1291-sequential-digits/) | Medium |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
