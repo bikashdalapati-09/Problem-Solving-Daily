@@ -493,6 +493,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2540-minimum-common-value/) | Easy |
@@ -546,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0279-perfect-squares/) | Medium |
 | [0398-random-pick-index](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0398-random-pick-index/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0877-stone-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0877-stone-game/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1185-day-of-the-week](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1185-day-of-the-week/) | Easy |
@@ -620,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
