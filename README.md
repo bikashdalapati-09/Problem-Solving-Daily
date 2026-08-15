@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3689-maximum-total-subarray-value-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3701-compute-alternating-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3731-find-missing-elements/) | Easy |
 | [3742-maximum-path-score-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
@@ -481,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3513-number-of-unique-xor-triplets-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
