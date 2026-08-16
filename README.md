@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1436-destination-city](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1436-destination-city/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1668-maximum-repeating-substring](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2751-robot-collisions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2751-robot-collisions/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -875,4 +877,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0020-valid-parentheses/) | Easy |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
