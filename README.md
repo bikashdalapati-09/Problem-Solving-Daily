@@ -352,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0979-distribute-coins-in-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -371,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0979-distribute-coins-in-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1306-jump-game-iii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0979-distribute-coins-in-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -862,4 +865,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
