@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0316-remove-duplicate-letters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0316-remove-duplicate-letters/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0796-rotate-string/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1108-defanging-an-ip-address/) | Easy |
@@ -341,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -891,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0020-valid-parentheses/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
