@@ -220,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1021-remove-outermost-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2751-robot-collisions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2751-robot-collisions/) | Hard |
 ## Tree
@@ -896,5 +898,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0020-valid-parentheses/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
