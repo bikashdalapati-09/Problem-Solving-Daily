@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0048-rotate-image/) | Medium |
 | [0056-merge-intervals](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0057-insert-interval/) | Medium |
 | [0064-minimum-path-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0075-sort-colors/) | Medium |
