@@ -613,6 +613,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3513-number-of-unique-xor-triplets-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+| [3560-find-minimum-log-transportation-cost](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3560-find-minimum-log-transportation-cost/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
