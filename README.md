@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1927-sum-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1927-sum-game/) | Medium |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2029-stone-game-ix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -244,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1871-jump-game-vii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1927-sum-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -596,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1563-stone-game-v/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1927-sum-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2029-stone-game-ix/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
@@ -892,6 +895,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0877-stone-game/) | Medium |
 | [1510-stone-game-iv](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
