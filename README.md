@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1861-rotating-the-box/) | Medium |
+| [1872-stone-game-viii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1872-stone-game-viii/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1913-maximum-product-difference-between-two-pairs/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
@@ -304,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1668-maximum-repeating-substring/) | Easy |
 | [1871-jump-game-vii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -498,6 +500,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1871-jump-game-vii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1872-stone-game-viii/) | Hard |
 | [2615-sum-of-distances](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2615-sum-of-distances/) | Medium |
 | [2906-construct-product-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2906-construct-product-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -600,6 +603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1563-stone-game-v/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1872-stone-game-viii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2029-stone-game-ix/) | Medium |
@@ -890,6 +894,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0877-stone-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0877-stone-game/) | Medium |
 | [1510-stone-game-iv](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2029-stone-game-ix/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
@@ -897,6 +902,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0877-stone-game/) | Medium |
 | [1510-stone-game-iv](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
@@ -904,6 +910,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0877-stone-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0877-stone-game/) | Medium |
 | [1510-stone-game-iv](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
