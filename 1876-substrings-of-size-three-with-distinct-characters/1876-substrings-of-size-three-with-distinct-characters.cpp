@@ -1,26 +1,39 @@
 class Solution {
 public:
+    bool isSame(string s) {
+        vector<int> arr(26, 0);
+
+        for (auto i : s) {
+            arr[i - 'a']++;
+        }
+
+        for (auto i : arr) {
+            if (i > 1) {
+                return false;
+            }
+        }
+        return true;
+    }
     int countGoodSubstrings(string s) {
         int n = s.size();
         int count = 0;
 
-        for(int i = 0;i <= n-3;i++){
-            string str = s.substr(i, 3);
-            cout << str << endl;
+        int i = 0;
+        int j = 0;
 
-            vector<int> arr(26, 0);
-            for(auto i: str){
-                arr[i - 'a']++;
+        while (j < n) {
+
+            if (j - i + 1 > 3) {
+                i++;
             }
-            bool flag = true;
-            for(auto i : arr){
-                if(i > 1){
-                    flag = false;
+            if (j - i + 1 == 3) {
+                string str = s.substr(i, 3);
+                cout << str << endl;
+                if (isSame(str)) {
+                    count++;
                 }
             }
-            if(flag){
-                count++;
-            }
+            j++;
         }
         return count;
     }
