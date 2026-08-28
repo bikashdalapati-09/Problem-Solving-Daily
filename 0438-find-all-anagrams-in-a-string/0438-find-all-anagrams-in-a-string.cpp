@@ -1,20 +1,22 @@
 class Solution {
 public:
-    bool isSame(string a, string b){
-        unordered_map<char, int>mp;
+    bool isSame(string a, string b) {
+        vector<int> freq(26, 0);
 
-        for(char i: a){
-            mp[i]++;
+        for (char c : a) {
+            freq[c - 'a']++;
         }
 
-        for(char i: b){
-            mp[i]--;
-            if(mp[i] == 0){
-                mp.erase(i);
-            }
+        for (char c : b) {
+            freq[c - 'a']--;
         }
-        return mp.size() == 0;
 
+        for (int x : freq) {
+            if (x != 0)
+                return false;
+        }
+
+        return true;
     }
     vector<int> findAnagrams(string s, string p) {
         int n = s.size();
@@ -23,14 +25,14 @@ public:
         int i = 0;
         int j = 0;
 
-        while(j < n){
-    
-            if(j - i + 1 > p.size()){
+        while (j < n) {
+
+            if (j - i + 1 > p.size()) {
                 i++;
             }
-            if(j - i + 1 == p.size()){
-                string str = s.substr(i, j-i+1);
-                if(isSame(str, p)){
+            if (j - i + 1 == p.size()) {
+                string str = s.substr(i, j - i + 1);
+                if (isSame(str, p)) {
                     ans.push_back(i);
                 }
             }
