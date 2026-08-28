@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0242-valid-anagram/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0567-permutation-in-string/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0796-rotate-string/) | Easy |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0567-permutation-in-string/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -460,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0398-random-pick-index](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0398-random-pick-index/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0567-permutation-in-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0567-permutation-in-string/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
@@ -693,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0567-permutation-in-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0567-permutation-in-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1768-merge-strings-alternately/) | Easy |
