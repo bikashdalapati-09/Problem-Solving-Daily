@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3833-count-dominant-indices](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3833-count-dominant-indices/) | Easy |
 | [3861-minimum-capacity-box](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3861-minimum-capacity-box/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3880-minimum-absolute-difference-between-two-values](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3880-minimum-absolute-difference-between-two-values/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -654,6 +655,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3894-traffic-signal-color](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3894-traffic-signal-color/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
