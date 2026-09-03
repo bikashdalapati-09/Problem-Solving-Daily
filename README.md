@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-find-the-difference-of-two-arrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2540-minimum-common-value/) | Easy |
@@ -348,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-jump-game-vii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1871-jump-game-vii/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -486,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2540-minimum-common-value](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2540-minimum-common-value/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [2615-sum-of-distances](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2615-sum-of-distances/) | Medium |
