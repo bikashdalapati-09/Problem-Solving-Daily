@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0674-longest-continuous-increasing-subsequence/) | Easy |
 | [0735-asteroid-collision](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0735-asteroid-collision/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0567-permutation-in-string/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
