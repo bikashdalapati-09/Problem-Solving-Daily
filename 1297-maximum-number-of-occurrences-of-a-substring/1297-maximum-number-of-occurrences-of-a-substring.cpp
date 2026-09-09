@@ -9,7 +9,7 @@ public:
         unordered_map<string, int> mp;
 
         i = 0, j = 0;
-        while (i <= n - minSize && j < n) {
+        while (j < n) {
             temp += s[j];
             st[s[j]] += 1;
             if (temp.length() == minSize) {
