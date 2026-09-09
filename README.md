@@ -249,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1309-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1309-decrypt-string-from-alphabet-to-integer-mapping/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -351,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -486,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
