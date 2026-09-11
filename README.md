@@ -374,6 +374,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
@@ -479,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0139-word-break/) | Medium |
 | [0141-linked-list-cycle](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0146-lru-cache](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0242-valid-anagram/) | Easy |
@@ -907,6 +909,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0146-lru-cache/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1603-design-parking-system](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1603-design-parking-system/) | Easy |
 ## Monotonic Stack
@@ -1002,4 +1005,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0056-merge-intervals/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
