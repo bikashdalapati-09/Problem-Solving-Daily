@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -519,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3184-count-pairs-that-form-a-complete-day-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -783,6 +785,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1291-sequential-digits](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1291-sequential-digits/) | Medium |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -833,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0234-palindrome-linked-list/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
