@@ -7,7 +7,6 @@ public:
     vector<vector<P>> dp;
     map<tuple<int, int, int>, int> originalIndex;
 
-    // dp[i][k] = best (negative weight, indices)
     P solve(int i, int k) {
         if (i == intervals.size() || k == 0)
             return {0, {}};
@@ -21,7 +20,7 @@ public:
 
         P take = solve(nextIndex[i], k - 1);
 
-        take.first -= weight; // ref : step 5 if you confuse
+        take.first -= weight;
         take.second.push_back(originalIndex[{left, right, weight}]);
         sort(take.second.begin(), take.second.end());
 
@@ -29,11 +28,10 @@ public:
     }
 
     vector<int> maximumWeight(vector<vector<int>>& a) {
-        // map : stored in sorted order
         for (int i = 0; i < a.size(); i++) {
             if (originalIndex.find({a[i][0], a[i][1], a[i][2]}) !=
                 originalIndex.end()) {
-                continue; // Skip Dublicate
+                continue;
             }
             originalIndex[{a[i][0], a[i][1], a[i][2]}] = i;
         }
@@ -45,7 +43,6 @@ public:
         int n = intervals.size();
         nextIndex.resize(n);
 
-        // Next Valid Interval (non-overlapping)
         for (int i = 0; i < n; i++) {
             auto [left, right, weight] = intervals[i];
 
