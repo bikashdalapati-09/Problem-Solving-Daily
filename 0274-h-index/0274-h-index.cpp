@@ -5,14 +5,21 @@ public:
 
         sort(citations.begin(), citations.end());
 
+        int low = 0;
+        int high = n;
         int ans = 0;
 
-        for(int i = 0; i < n; i++) {
-            int papers = n - i;
+        while(low <= high) {
+            int mid = low + (high - low) / 2;
 
-            if(citations[i] >= papers) {
-                ans = papers;
-                break;
+            int index = n - mid;
+
+            if(mid == 0 || citations[index] >= mid) {
+                ans = mid;
+                low = mid + 1;
+            }
+            else {
+                high = mid - 1;
             }
         }
 
