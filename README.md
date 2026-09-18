@@ -597,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0374-guess-number-higher-or-lower](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -1026,4 +1027,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0146-lru-cache/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
