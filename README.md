@@ -597,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0278-first-bad-version](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0374-guess-number-higher-or-lower/) | Easy |
@@ -1037,6 +1038,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
