@@ -293,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-smallest-divisible-digit-product-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3407-substring-matching-pattern](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3407-substring-matching-pattern/) | Easy |
 | [3474-lexicographically-smallest-generated-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3582-generate-tag-for-video-caption](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3582-generate-tag-for-video-caption/) | Easy |
@@ -838,6 +839,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2960-count-tested-devices-after-test-operations](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3582-generate-tag-for-video-caption](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3582-generate-tag-for-video-caption/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
