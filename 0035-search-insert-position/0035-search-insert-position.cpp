@@ -3,17 +3,25 @@ public:
     int searchInsert(vector<int>& nums, int target) {
         int n = nums.size();
 
-        int i = 0;
-        int j = n - 1;
+        int l = 0;
+        int r = n-1;
 
-        while (i <= j) {
-            int mid = (i + j) / 2;
-            if (nums[mid] < target) {
-                i = mid + 1;
-            } else {
-                j = mid - 1;
+        int ans = -1;
+
+        while(l <= r){
+            int mid = l + (r - l) / 2;
+
+            if(nums[mid] == target){
+                return mid;
+            }
+            else if(nums[mid] < target){
+                ans = mid;
+                l = mid + 1;
+            }
+            else{
+                r = mid - 1;
             }
         }
-        return i;
+        return ans + 1;
     }
 };
