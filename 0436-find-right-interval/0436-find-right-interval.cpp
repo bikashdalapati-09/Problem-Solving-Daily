@@ -1,20 +1,34 @@
-class Solution {
+class Solution {  
 public:
     vector<int> findRightInterval(vector<vector<int>>& intervals) {
-        map<int, int> hash;
-        vector<int> res;
         int n = intervals.size();
-        for (int i = 0; i < n; ++i) {
-            hash[intervals[i][0]] = i;
+        vector<pair<int,int>> arr;
+        
+        for(int i = 0; i < n; i++) {
+            arr.push_back({intervals[i][0], i});
         }
-        for (auto in : intervals) {
-            auto itr = hash.lower_bound(in[1]);
-            if (itr == hash.end()) {
-                res.push_back(-1);
-            } else {
-                res.push_back(itr->second);
+        
+        sort(arr.begin(), arr.end());
+        
+        vector<int> ans(n, -1);
+        
+        for(int i = 0; i < n; i++) {
+            int end_val = intervals[i][1];
+            
+            int l = 0, r = n - 1, idx = -1;
+            while(l <= r) {
+                int mid = (l + r) / 2;
+                if(arr[mid].first >= end_val) {
+                    idx = arr[mid].second;  
+                    r = mid - 1;   
+                } else {
+                    l = mid + 1;
+                }
             }
+            
+            ans[i] = idx;
         }
-        return res;
+        
+        return ans;
     }
 };
