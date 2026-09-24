@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2215-find-the-difference-of-two-arrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -623,6 +624,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2070-most-beautiful-item-for-each-query](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2070-most-beautiful-item-for-each-query/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2540-minimum-common-value](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2540-minimum-common-value/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -777,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1861-rotating-the-box/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2540-minimum-common-value](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2540-minimum-common-value/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -813,6 +816,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2070-most-beautiful-item-for-each-query](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2126-destroying-asteroids](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2563-count-the-number-of-fair-pairs](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
