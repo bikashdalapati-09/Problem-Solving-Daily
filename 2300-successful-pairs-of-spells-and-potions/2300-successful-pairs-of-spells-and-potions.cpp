@@ -2,23 +2,27 @@ class Solution {
 public:
     vector<int> successfulPairs(vector<int>& spells, vector<int>& potions,
                                 long long success) {
-        
         int n = potions.size();
-        vector<int> ans(spells.size());
-
+        vector<int> result;
         sort(potions.begin(), potions.end());
 
-        for (int i = 0; i < spells.size(); i++) {
-            int spell = spells[i];
+        for (auto spell : spells) {
+            int l = 0;
+            int r = n - 1;
+            int ans = -1;
 
-            long long mod = (success + spell - 1) / spell;
-
-            int idx = lower_bound(potions.begin(), potions.end(), mod)
-                      - potions.begin();
-
-            ans[i] = n - idx;
+            while (l <= r) {
+                int mid = l + (r - l) / 2;
+                long long mul = 1LL * spell * potions[mid];
+                if (mul < success) {
+                    ans = mid;
+                    l = mid + 1;
+                } else {
+                    r = mid - 1;
+                }
+            }
+            result.push_back(n - ans - 1);
         }
-
-        return ans;
+        return result;
     }
 };
