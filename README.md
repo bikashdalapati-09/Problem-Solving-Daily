@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1563-stone-game-v](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1563-stone-game-v/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -636,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
