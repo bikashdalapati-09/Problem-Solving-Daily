@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1345-jump-game-iv](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1345-jump-game-iv/) | Hard |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1436-destination-city](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1436-destination-city/) | Easy |
@@ -213,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0566-reshape-the-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0566-reshape-the-matrix/) | Easy |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1301-number-of-paths-with-max-score/) | Hard |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -625,6 +627,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
