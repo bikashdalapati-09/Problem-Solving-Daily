@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [1779-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1779-find-nearest-point-that-has-the-same-x-or-y-coordinate/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -283,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1871-jump-game-vii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1871-jump-game-vii/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
@@ -536,6 +538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1624-largest-substring-between-two-equal-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1624-largest-substring-between-two-equal-characters/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1674-minimum-moves-to-make-array-complementary/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
