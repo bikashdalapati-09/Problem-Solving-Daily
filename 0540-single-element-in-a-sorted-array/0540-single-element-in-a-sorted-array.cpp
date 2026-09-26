@@ -1,10 +1,17 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        int ans = 0;
-        for(auto i : nums){
-            ans = ans ^ i;
+        unordered_map<int, int>mp;
+
+        for(auto& i : nums){
+            mp[i]++;
         }
-        return ans;
+
+        for(auto& [key, val] : mp){
+            if(val == 1){
+                return key;
+            }
+        }
+        return -1;
     }
 };
