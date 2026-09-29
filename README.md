@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2215-find-the-difference-of-two-arrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
@@ -229,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1914-cyclically-rotating-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2639-find-the-width-of-columns-of-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2639-find-the-width-of-columns-of-a-grid/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-jump-game-vii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1871-jump-game-vii/) | Medium |
 | [1872-stone-game-viii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2463-minimum-total-distance-traveled](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2573-find-the-string-with-lcp](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
@@ -1085,6 +1088,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
