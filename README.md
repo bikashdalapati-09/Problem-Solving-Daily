@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1436-destination-city](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1436-destination-city/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -649,6 +650,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0852-peak-index-in-a-mountain-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
