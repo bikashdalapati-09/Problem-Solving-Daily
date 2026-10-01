@@ -1122,4 +1122,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
