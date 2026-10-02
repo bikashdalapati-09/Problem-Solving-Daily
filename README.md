@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0022-generate-parentheses/) | Medium |
 | [0072-edit-distance](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0072-edit-distance/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0139-word-break/) | Medium |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0042-trapping-rain-water/) | Hard |
 | [0062-unique-paths](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0064-minimum-path-sum/) | Medium |
@@ -580,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0022-generate-parentheses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0494-target-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0494-target-sum/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -1091,6 +1094,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0022-generate-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
