@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0874-walking-robot-simulation/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0877-stone-game/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -655,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
