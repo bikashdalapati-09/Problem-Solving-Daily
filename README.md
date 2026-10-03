@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2196-create-binary-tree-from-descriptions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2215-find-the-difference-of-two-arrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
@@ -668,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2070-most-beautiful-item-for-each-query](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2070-most-beautiful-item-for-each-query/) | Medium |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2540-minimum-common-value](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2540-minimum-common-value/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
