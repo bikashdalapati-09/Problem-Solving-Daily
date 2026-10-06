@@ -631,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0342-power-of-four](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0342-power-of-four/) | Easy |
 | [0476-number-complement](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0476-number-complement/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -737,6 +738,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0279-perfect-squares/) | Medium |
 | [0326-power-of-three](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0342-power-of-four/) | Easy |
 | [0398-random-pick-index](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0398-random-pick-index/) | Medium |
 | [0441-arranging-coins](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0441-arranging-coins/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -957,6 +959,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0342-power-of-four/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
