@@ -736,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0279-perfect-squares/) | Medium |
+| [0326-power-of-three](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0326-power-of-three/) | Easy |
 | [0398-random-pick-index](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0398-random-pick-index/) | Medium |
 | [0441-arranging-coins](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0441-arranging-coins/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -955,6 +956,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0326-power-of-three/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
