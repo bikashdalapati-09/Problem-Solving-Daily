@@ -628,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0231-power-of-two](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0476-number-complement](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0476-number-complement/) | Easy |
@@ -732,6 +733,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0069-sqrtx/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0231-power-of-two](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0268-missing-number/) | Easy |
 | [0279-perfect-squares](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0279-perfect-squares/) | Medium |
 | [0398-random-pick-index](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0398-random-pick-index/) | Medium |
@@ -951,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0234-palindrome-linked-list/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Counting
