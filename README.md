@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0242-valid-anagram](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
@@ -600,6 +601,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0022-generate-parentheses/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0494-target-sum/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -1008,6 +1010,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0279-perfect-squares](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0279-perfect-squares/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0322-coin-change/) | Medium |
 | [0637-average-of-levels-in-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
