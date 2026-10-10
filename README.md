@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2600-k-items-with-the-maximum-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -686,6 +688,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2070-most-beautiful-item-for-each-query](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2070-most-beautiful-item-for-each-query/) | Medium |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2540-minimum-common-value](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2540-minimum-common-value/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
@@ -801,6 +804,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -888,6 +892,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2126-destroying-asteroids](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2563-count-the-number-of-fair-pairs](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
