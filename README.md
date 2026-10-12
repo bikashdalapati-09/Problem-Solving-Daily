@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2906-construct-product-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2956-find-common-elements-between-two-arrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-minimum-sum-of-squared-difference](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2600-k-items-with-the-maximum-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3474-lexicographically-smallest-generated-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -581,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2956-find-common-elements-between-two-arrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2956-find-common-elements-between-two-arrays/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -643,6 +646,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1009-complement-of-base-10-integer](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
