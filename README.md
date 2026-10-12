@@ -284,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0796-rotate-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0796-rotate-string/) | Easy |
 | [0856-score-of-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0856-score-of-parentheses/) | Medium |
+| [0859-buddy-strings](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0859-buddy-strings/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -553,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0567-permutation-in-string/) | Medium |
+| [0859-buddy-strings](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0859-buddy-strings/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0874-walking-robot-simulation/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
