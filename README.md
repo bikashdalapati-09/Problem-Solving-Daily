@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
@@ -605,6 +606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3488-closest-equal-element-queries](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -919,6 +921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
