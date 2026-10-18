@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1539-kth-missing-positive-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1563-stone-game-v](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1510-stone-game-iv](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1510-stone-game-iv/) | Hard |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1563-stone-game-v](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1668-maximum-repeating-substring](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1668-maximum-repeating-substring/) | Easy |
@@ -489,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -537,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0637-average-of-levels-in-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 | [0979-distribute-coins-in-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0979-distribute-coins-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
@@ -726,6 +730,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -777,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1401-circle-and-rectangle-overlapping](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1510-stone-game-iv](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1563-stone-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1872-stone-game-viii/) | Hard |
@@ -843,6 +849,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0169-majority-element](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -1008,6 +1015,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0062-unique-paths/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## String Matching
@@ -1062,6 +1070,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0139-word-break](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0139-word-break/) | Medium |
 | [0509-fibonacci-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0509-fibonacci-number/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1200,4 +1209,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0069-sqrtx/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
