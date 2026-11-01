@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0322-coin-change](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0322-coin-change/) | Medium |
 | [0436-find-right-interval](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0436-find-right-interval/) | Medium |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0518-coin-change-ii/) | Medium |
@@ -781,6 +782,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0342-power-of-four](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0342-power-of-four/) | Easy |
 | [0398-random-pick-index](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0398-random-pick-index/) | Medium |
 | [0441-arranging-coins](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0441-arranging-coins/) | Easy |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0509-fibonacci-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0633-sum-of-square-numbers/) | Medium |
