@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0322-coin-change/) | Medium |
 | [0436-find-right-interval](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0436-find-right-interval/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0518-coin-change-ii/) | Medium |
@@ -783,6 +784,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0398-random-pick-index](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0398-random-pick-index/) | Medium |
 | [0441-arranging-coins](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0441-arranging-coins/) | Easy |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -913,6 +915,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0268-missing-number/) | Easy |
 | [0274-h-index](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0274-h-index/) | Medium |
 | [0436-find-right-interval](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0436-find-right-interval/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
