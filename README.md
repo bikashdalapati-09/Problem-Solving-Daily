@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3665-twisted-mirror-path-count](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3665-twisted-mirror-path-count/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3693-climbing-stairs-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3701-compute-alternating-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3660-jump-game-ix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3660-jump-game-ix/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3665-twisted-mirror-path-count](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3665-twisted-mirror-path-count/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3693-climbing-stairs-ii/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
