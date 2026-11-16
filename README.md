@@ -345,6 +345,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -1002,6 +1003,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1914-cyclically-rotating-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2180-count-integers-with-even-digit-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2739-total-distance-traveled](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2739-total-distance-traveled/) | Easy |
 | [2751-robot-collisions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2751-robot-collisions/) | Hard |
