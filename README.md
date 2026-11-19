@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2540-minimum-common-value](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2563-count-the-number-of-fair-pairs](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2224-minimum-number-of-operations-to-convert-time/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2600-k-items-with-the-maximum-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2600-k-items-with-the-maximum-sum/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
@@ -963,6 +965,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-minimum-sum-of-squared-difference](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2463-minimum-total-distance-traveled](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2463-minimum-total-distance-traveled/) | Hard |
 | [2563-count-the-number-of-fair-pairs](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2563-count-the-number-of-fair-pairs/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
 | [2602-minimum-operations-to-make-all-array-elements-equal](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2602-minimum-operations-to-make-all-array-elements-equal/) | Medium |
 | [2751-robot-collisions](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2751-robot-collisions/) | Hard |
