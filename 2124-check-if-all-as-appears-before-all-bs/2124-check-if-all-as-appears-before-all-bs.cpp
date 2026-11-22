@@ -1,6 +1,11 @@
 class Solution {
 public:
     bool checkString(string s) {
-        return s.find("ba") != string ::npos ? false : true;
+        for(int i = 0;i < s.size() - 1;i++){
+            if(s[i] == 'b' && s[i+1] == 'a'){
+                return false;
+            }
+        }
+        return true;
     }
 };
