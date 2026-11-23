@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1345-jump-game-iv](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1345-jump-game-iv/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1436-destination-city](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1436-destination-city/) | Easy |
@@ -667,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -818,6 +820,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1323-maximum-69-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1510-stone-game-iv](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1563-stone-game-v/) | Hard |
@@ -1130,6 +1133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0146-lru-cache/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1603-design-parking-system](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1603-design-parking-system/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -1281,4 +1285,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
