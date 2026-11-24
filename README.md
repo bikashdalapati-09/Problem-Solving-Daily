@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0179-largest-number/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0229-majority-element-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -218,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0011-container-with-most-water/) | Medium |
+| [0179-largest-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0860-lemonade-change/) | Easy |
@@ -303,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0139-word-break/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0171-excel-sheet-column-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0171-excel-sheet-column-number/) | Easy |
+| [0179-largest-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0179-largest-number/) | Medium |
 | [0242-valid-anagram](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0242-valid-anagram/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0316-remove-duplicate-letters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0316-remove-duplicate-letters/) | Medium |
@@ -948,6 +951,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0169-majority-element/) | Easy |
+| [0179-largest-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0179-largest-number/) | Medium |
 | [0229-majority-element-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0268-missing-number/) | Easy |
