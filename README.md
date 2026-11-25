@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0877-stone-game/) | Medium |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1267-count-servers-that-communicate](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1275-find-winner-on-a-tic-tac-toe-game/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -230,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1323-maximum-69-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1323-maximum-69-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -831,6 +833,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1185-day-of-the-week](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1185-day-of-the-week/) | Easy |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1217-minimum-cost-to-move-chips-to-the-same-position/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1323-maximum-69-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1323-maximum-69-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
