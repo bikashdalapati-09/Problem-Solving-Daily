@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0324-wiggle-sort-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0436-find-right-interval](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0436-find-right-interval/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0455-assign-cookies](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0494-target-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0494-target-sum/) | Medium |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0179-largest-number/) | Medium |
 | [0316-remove-duplicate-letters](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0324-wiggle-sort-ii/) | Medium |
+| [0455-assign-cookies](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0455-assign-cookies/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0860-lemonade-change](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0860-lemonade-change/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -931,6 +933,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0455-assign-cookies](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0455-assign-cookies/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0567-permutation-in-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0567-permutation-in-string/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -964,6 +967,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0274-h-index](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0274-h-index/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0436-find-right-interval](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0436-find-right-interval/) | Medium |
+| [0455-assign-cookies](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0455-assign-cookies/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -1259,6 +1263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0056-merge-intervals/) | Medium |
+| [0455-assign-cookies](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0455-assign-cookies/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
