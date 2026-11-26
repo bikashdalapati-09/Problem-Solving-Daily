@@ -860,6 +860,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3360-stone-removal-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -1047,6 +1048,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2960-count-tested-devices-after-test-operations](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/2960-count-tested-devices-after-test-operations/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3360-stone-removal-game/) | Easy |
 | [3417-zigzag-grid-traversal-with-skip](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3417-zigzag-grid-traversal-with-skip/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3582-generate-tag-for-video-caption](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/3582-generate-tag-for-video-caption/) | Easy |
