@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0048-rotate-image/) | Medium |
+| [0053-maximum-subarray](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0057-insert-interval/) | Medium |
 | [0064-minimum-path-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0064-minimum-path-sum/) | Medium |
@@ -399,6 +400,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0072-edit-distance/) | Medium |
@@ -914,6 +916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/bikashdalapati-09/Problem-Solving-Daily/tree/main/0324-wiggle-sort-ii/) | Medium |
